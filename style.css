@@ -2,3 +2,16 @@ body {
     background-color: black;
     color:white;
 }
+#myButton {
+  padding: 12px 20px;
+  font-size: 16px;
+  background-color: #00ffcc;
+  color: black;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#myButton:hover {
+  background-color: #00ccaa;
+}
