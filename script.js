@@ -4,3 +4,4 @@ function whenButtonClicked () {
         console.log("button was clicked")
     }
 }
+whenButtonClicked()
