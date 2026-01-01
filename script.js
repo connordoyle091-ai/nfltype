@@ -1,7 +1,5 @@
 const button = document.getElementById("myButton");
+button.addEventListener("click", whenButtonClicked);
 function whenButtonClicked () {
-    if(button.addEventListener("click")){
-        console.log("button was clicked")
-    }
+    console.log("button was clicked")
 }
-whenButtonClicked()
