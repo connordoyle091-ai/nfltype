@@ -1,5 +1,5 @@
-const button = document.getElementById("myButton");
-button.addEventListener("click", whenButtonClicked);
+const btn = document.getElementById("myButton");
+btn.addEventListener("click", whenButtonClicked);
 let count = 0
 function whenButtonClicked () {
     count ++
