@@ -4,6 +4,13 @@ html, body {
   height: 100%;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
 
 #myButton {
   padding: 12px 20px;
@@ -18,3 +25,4 @@ html, body {
 #myButton:hover {
   background-color: #00ccaa;
 }
+
