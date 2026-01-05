@@ -1,6 +1,10 @@
 body {
-    background-color: black;
-    color:white;
+  background-color: black;
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 #myButton {
   padding: 12px 20px;
