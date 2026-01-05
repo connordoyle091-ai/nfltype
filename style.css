@@ -1,5 +1,5 @@
 
-#myButton {
+#startButton {
   padding: 12px 20px;
   font-size: 16px;
   background-color: #00ffcc;
@@ -11,7 +11,18 @@
   margin: 0 auto;
 }
 
-#myButton:hover {
+#startButton:hover {
   background-color: #00ccaa;
+}
+#totalYards {
+  padding: 12px 20px;
+  font-size: 16px;
+  background-color: #00ffcc;
+  color: black;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  display: block;
+  margin-bottom: 10px;
 }
 
